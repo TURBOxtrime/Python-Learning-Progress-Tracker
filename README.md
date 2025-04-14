@@ -1,2 +1,21 @@
-# Python-Learning-Progress-Tracker
-A simple and interactive desktop application built using Tkinter to track daily progress while learning Python. The app allows users to mark completed Python topics, visualize progress with graphs using Matplotlib, and automatically saves scores with dates into a JSON file for long-term tracking and analysis.
+# Python Learning Progress Tracker 🧠📊
+
+A Tkinter-based GUI application to track your Python learning progress daily.
+Visualizes data using matplotlib and stores it persistently in JSON format.
+
+## Features
+- Topic checklist for Python topics
+- Saves daily progress
+- Graphical analysis of your progress
+- Data stored in `data.json`
+
+## Requirements
+- Python 3.x
+- matplotlib
+- Pillow
+
+## Run it
+```bash
+python main.py
+
+Feel free to use thsi project as your prject.
